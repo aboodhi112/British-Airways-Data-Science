@@ -1,2 +1,2 @@
 # British-Airways-Data-Science
-Job simulation on firage with ritish airways
+Job simulation on forage with British airways
